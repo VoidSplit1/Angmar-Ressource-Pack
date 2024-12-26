@@ -1,0 +1,44 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/cod"
+    },
+    "overrides": [
+        {
+          "predicate": {
+            "custom_model_data": 1
+          },
+          "model": "minecraft:item/poissons/brochet"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 2
+          },
+          "model": "minecraft:item/poissons/carpe"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 3
+          },
+          "model": "minecraft:item/poissons/thon"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 4
+          },
+          "model": "minecraft:item/poissons/truite"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 5
+          },
+          "model": "minecraft:item/poissons/sardine"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 6
+          },
+          "model": "minecraft:item/poissons/meduse"
+        }
+    ]
+}

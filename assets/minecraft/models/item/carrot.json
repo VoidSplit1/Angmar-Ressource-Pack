@@ -1,0 +1,50 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/carrot"
+    },
+    "overrides": [
+        {
+          "predicate": {
+            "custom_model_data": 1
+          },
+          "model": "minecraft:item/nourriture/carotte_sauvage"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 3
+          },
+          "model": "minecraft:item/nourriture/tomate"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 4
+          },
+          "model": "minecraft:item/nourriture/cerises"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 5
+          },
+          "model": "minecraft:item/nourriture/cote_de_boeuf"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 6
+          },
+          "model": "minecraft:item/nourriture/cote_de_porc"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 7
+          },
+          "model": "minecraft:item/nourriture/citron"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 8
+          },
+          "model": "minecraft:item/nourriture/cone_de_glace"
+        }
+    ]
+}

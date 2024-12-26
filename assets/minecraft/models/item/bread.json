@@ -1,0 +1,80 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/bread"
+    },
+    "overrides": [
+        {
+          "predicate": {
+            "custom_model_data": 1
+          },
+          "model": "minecraft:item/patisseries/brioche"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 2
+          },
+          "model": "minecraft:item/patisseries/cake_au_raisin"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 3
+          },
+          "model": "minecraft:item/patisseries/croissant"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 4
+          },
+          "model": "minecraft:item/patisseries/donut"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 5
+          },
+          "model": "minecraft:item/patisseries/pain_brioche"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 6
+          },
+          "model": "minecraft:item/patisseries/pate_a_pizza"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 7
+          },
+          "model": "minecraft:item/patisseries/brioche_aux_raisins"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 8
+          },
+          "model": "minecraft:item/patisseries/brioche_tressee"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 9
+          },
+          "model": "minecraft:item/patisseries/prefous"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 10
+          },
+          "model": "minecraft:item/patisseries/baguette"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 11
+          },
+          "model": "minecraft:item/misc/other"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 12
+          },
+          "model": "minecraft:item/patisseries/pain_de_mie"
+        }
+    ]
+}

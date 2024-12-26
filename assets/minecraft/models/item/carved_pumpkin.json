@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:block/carved_pumpkin",
+    "textures": {
+        "layer0": "minecraft:block/carved_pumpkin"
+    },
+    
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "minecraft:block/custom/pumpkin_cosmetic_halloween_2024"
+        }
+    ]
+}

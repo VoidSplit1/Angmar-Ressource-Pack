@@ -1,0 +1,338 @@
+{
+    "angmar.assets_closing_door": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/closing_giant_wooden_door"
+        ]
+    },
+    "angmar.assets_opening_door": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/opening_giant_wooden_door"
+        ]
+    },
+    "angmar.assets_trumpet": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/assets_trumpet"
+        ]
+    },
+    "angmar.assets_trumpet_2": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/assets_trumpet_2"
+        ]
+    },
+    
+    
+    
+    "angmar.organ_raphael_crux": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/organ_raphael_crux"
+        ]
+    },
+    "angmar.organ_vengance": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/organ_vengance"
+        ]
+    },
+    "angmar.organ_canon_in_d_major": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/organ_canon_in_d_major"
+        ]
+    },
+    "angmar.organ_wedding_march": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/organ_wedding_march"
+        ]
+    },
+    "angmar.organ_ecoute_ton_dieu_tappelle": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/organ_ecoute_ton_dieu_tappelle"
+        ]
+    },
+
+
+
+
+
+
+
+    "angmar.music_song_of_the_north": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_song_of_the_north"
+        ]
+    },
+    "angmar.music_court_ministrel": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_court_ministrel"
+        ]
+    },
+    "angmar.music_garden_of_wishes": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_garden_of_wishes"
+        ]
+    },
+    "angmar.music_rise_of_a_kingdom": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_rise_of_a_kingdom"
+        ]
+    },
+    "angmar.music_treasure_hunt_fox_sailor": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_treasure_hunt_fox_sailor"
+        ]
+    },
+    "angmar.music_medieval_faire": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_medieval_faire"
+        ]
+    },
+    "angmar.music_they're_alive": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_they're_alive"
+        ]
+    },
+    "angmar.music_fight_while_mounted": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_fight_while_mounted"
+        ]
+    },
+    "angmar.music_bandit_fight": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_bandit_fight"
+        ]
+    },
+    "angmar.music_arena": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_arena"
+        ]
+    },
+    "angmar.music_khergit_lord's_hall": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_khergit_lord's_hall"
+        ]
+    },
+    "angmar.music_rhodok_town": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_rhodok_town"
+        ]
+    },
+    "angmar.music_town_neutral": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_town_neutral"
+        ]
+    },
+    "angmar.music_swadian_hall": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_swadian_hall"
+        ]
+    },
+    "angmar.music_nord_lord's_hall": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_nord_lord's_hall"
+        ]
+    },
+    "angmar.music_vaegir_lord's_hall": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_vaegir_lord's_hall"
+        ]
+    },
+    "angmar.music_rhodok_lord's_hall": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_rhodok_lord's_hall"
+        ]
+    },
+    "angmar.music_victory": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_victory"
+        ]
+    },
+    "angmar.music_the_fight_as_khergit": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_the_fight_as_khergit"
+        ]
+    },
+    "angmar.music_uncertain_homestead": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_uncertain_homestead"
+        ]
+    },
+    "angmar.music_town_khergit": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_town_khergit"
+        ]
+    },
+    "angmar.music_mountain_snow": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_mountain_snow"
+        ]
+    },
+    "angmar.music_endpoint": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_endpoint"
+        ]
+    },
+
+
+
+
+
+
+
+
+    "angmar.music_castle_bard": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_castle_bard"
+        ]
+    },
+    "angmar.music_minstrels_of_windsong": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_minstrels_of_windsong"
+        ]
+    },
+    "angmar.music_white_falcons_inn": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_white_falcons_inn"
+        ]
+    },
+    "angmar.music_the_old_cobbers_inn": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_the_old_cobbers_inn"
+        ]
+    },
+    "angmar.music_the_travelers_inn": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_the_travelers_inn"
+        ]
+    },
+    "angmar.music_sir_gawains_inn": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_sir_gawains_inn"
+        ]
+    },
+    "angmar.music_red_dragons_inn": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_red_dragons_inn"
+        ]
+    },
+    "angmar.music_dragons_peak": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_dragons_peak"
+        ]
+    },
+
+    "assets_les_dragons_de_noailles": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/assets_les_dragons_de_noailles"
+        ]
+    },
+    "assets_la_marseillaise": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/assets_la_marseillaise"
+        ]
+    },
+    "assets_la_strasbourgeoise": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/assets_la_strasbourgeoise"
+        ]
+    },
+    "assets_hymne_gendarmerie_nationale": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/assets_hymne_gendarmerie_nationale"
+        ]
+    },
+    "assets_royaume_de_france": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/assets_royaume_de_france"
+        ]
+    },
+    "assets_cloche_eglise": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/assets_cloche_eglise"
+        ]
+    },
+    "assets_cloches_funerailles": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/assets_cloches_funerailles"
+        ]
+    },
+    "assets_musique_enterrement": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/assets_musique_enterrement"
+        ]
+    },
+    "assets_musique_mariage": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/assets_musique_mariage"
+        ]
+    },
+
+
+
+
+
+    "angmar.music_cobblestone_village": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/music_cobblestone_village"
+        ]
+    },
+    "angmar.music_hymne_cattar": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/hymne_cattar"
+        ]
+    },
+    "angmar.music_hymne_gnark": {
+        "category": "master",
+        "sounds": [
+            "minecraft:custom/hymne_gnark"
+        ]
+    }
+}

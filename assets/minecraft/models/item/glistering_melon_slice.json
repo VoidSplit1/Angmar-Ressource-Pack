@@ -1,0 +1,38 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/glistering_melon_slice"
+    },
+    "overrides": [
+        {
+          "predicate": {
+            "custom_model_data": 1
+          },
+          "model": "minecraft:item/misc/pieces/piece_cuivre"
+        },
+        {
+         "predicate": {
+              "custom_model_data": 2
+            },
+            "model": "minecraft:item/misc/pieces/piece_argent"
+        },
+        {
+            "predicate": {
+              "custom_model_data": 3
+            },
+            "model": "minecraft:item/misc/pieces/piece_or"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 4
+          },
+          "model": "minecraft:item/misc/perle_brune"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 5
+          },
+          "model": "minecraft:item/misc/perle_blonde"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/potion_overlay",
+      "layer1": "minecraft:item/potion"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "minecraft:item/boissons/biere"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 2
+        },
+        "model": "minecraft:item/boissons/bouteille_1"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 3
+        },
+        "model": "minecraft:item/boissons/bouteille_2"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 4
+        },
+        "model": "minecraft:item/boissons/bouteille_3"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5
+        },
+        "model": "minecraft:item/boissons/bouteille_4"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 6
+        },
+        "model": "minecraft:item/boissons/bouteille_5"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 7
+        },
+        "model": "minecraft:item/boissons/cafe"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8
+        },
+        "model": "minecraft:item/boissons/capuccino"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 9
+        },
+        "model": "minecraft:item/boissons/expresso"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10
+        },
+        "model": "minecraft:item/potion"
+      }
+    ]
+}
